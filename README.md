@@ -1,0 +1,2 @@
+# Term-Deposit-Prediction
+In this study, we examine a bank telemarketing dataset. The data was from a previous marketing campaign run by a bank to promote term deposits to its clients. We try to predict whether or not a client would subscribe to a term deposit. Prediction was done with the help of various classification models. We explored a couple of these models and found out that a decision tree classifier with a test size of 0.50 provided the highest accuracy (87 percent) out of the other models employed in this study.
